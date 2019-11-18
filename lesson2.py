@@ -1,4 +1,4 @@
-
+# This function asks the user for their name and favorite food
 def question():
     # Variable holding a string
     welcome_message = "Welcome to Hallmarklabs' Lunch and Learn!"
